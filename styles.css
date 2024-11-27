@@ -1,0 +1,45 @@
+html {
+    scroll-behavior: smooth;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    display: block;
+}
+
+body {
+    padding: 0px 50px;
+}
+
+.authordate {
+    font-size: 13px;
+}
+
+.date {
+    color: grey;
+    font-weight: 300;
+}
+
+.button {
+    background-color: rgb(255, 89, 0);
+    color: white;
+    border: 0px;
+    padding: 14px 27px;
+    font-size: 20px;
+    margin: 0px 132px;
+    margin-bottom: 20px;
+    display: block;
+    transition-duration: 0.3s;
+    scroll-behavior: smooth;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: rgb(106, 29, 1);
+}
+
+.potatotitle {
+    display: inline-block;
+    margin-left: 134px;
+}
